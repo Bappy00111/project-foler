@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+#banner{
+    padding: 270px 0 165px 0;
+    background-image:url('../images/banner/banner2.png') ;
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-size: cover;
+}
+.banner_info{
+    display: flex;
+    justify-content: end;
+}
+.banner_text{
+    width: 525px;
+    text-align: right;
+
+}
+.banner-text h1{
+   
+    margin-bottom: 200px;
+    font-weight: 700;
+font-size: 65px;
+
+}
+.banner-text p{
+   
+   
+font-size: 16px;
+
+}
+button{
+    margin-top: 50px;
+    padding: 13px 26px;
+    color: #FFFFFF;
+    background-color: orangered;
+    border: none;
+    
+}
+.header{
+   padding-top: 124px;
+}
+.header-inf{
+    display: flex;
+    column-gap: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-title{
+    width: 450px;
+
+}
+.text-title h2{
+    margin-bottom: 24px;
+}
+    .margin{
+        margin-top: 24px;
+        
+    }
+
+
+ 
+.images-title img{
+    width: 100%;
+    height: 100%;
+}
+.service-heading{
+    font-size: 40px;
+    margin: 50px 0;
+    text-align: center;
+}
+.service-wrapper{
+    display: flex;
+    justify-content:space-between;
+}
+.service-item{
+    text-align: center;
+}
+.service-item p{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    margin-bottom: 50px;
+    }
+    .baner-pic{
+        /* padding: 40px 0 40px 0; */
+        background-image: url('../images/watch.png');
+        background-repeat: no-repeat; 
+        background-position: center; 
+        background-size: cover;
+        margin-bottom: 80px;
+    }
+    .banner-setting{
+         display: flex;
+    justify-content: end;
+
+    }
+    .text-map{
+       padding: 60px;
+       width: 700;
+       text-align: left;
+       color:#FFFFFF;
+    }
+    .alian{
+        font-size: 40px;
+         
+    }
+.margin{
+    font-size: 20px;
+    color: white
+}
+.display{
+    display: flex;
+   justify-content: space-between;
+ padding-top: 50px;
+}
+.bg-header{
+    background-color: black;
+    margin-top:20px;
+    color: #FFFFFF;
+   
+}
+.futter-botom{
+    margin-bottom: 240px;
+    background-color:#FFFFFF;
+    color:orangered;
+    
+   
+
+}
+.foter-top{
+    margin-bottom: 20px;
+}
+   
+
+.input-fil{
+    padding: 20px;
+}
+.icon-refer{
+    display: flex;
+
+}
+   
+
+    
+
+
+
+
+
+    
+
+
